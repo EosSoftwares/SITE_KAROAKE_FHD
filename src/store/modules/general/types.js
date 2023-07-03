@@ -1,0 +1,1 @@
+export const SET_GENERAL = 'SET_GENERAL';
