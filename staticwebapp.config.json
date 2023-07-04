@@ -1,0 +1,9 @@
+
+{
+    "navigationFallback": {
+        "rewrite": "login.html"
+    },
+    "mimeTypes": {
+        ".json": "text/json"
+    }
+}
